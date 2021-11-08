@@ -1,0 +1,16 @@
+{
+  "name": "interview-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node --harmony index.js",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "chance": "^1.1.7"
+  },
+  "devDependencies": {
+    "mocha": "^8.3.0"
+  }
+}
